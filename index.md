@@ -1,9 +1,7 @@
 # Ramírez-Barahona Lab
 ## Macroevolution - Population genomics - Cloud forests - Tree ferns
 
-You can use the [editor on GitHub](https://github.com/spiritu-santi/spiritu-santi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The lab focuses on the relationship between molecular evolution, ecological and morphological change, and species diversification, with a special interest in tree ferns and other groups of plants. We integrate different theoretical and methodological approaches to the study of evolution and species diversity: from the study of population genetics, ecology, genomics and landscape genetics, to the analysis of macroevolutionary and biogeographic patterns. The lab is based at the Department of Botany, Institute of Biology, Universidad Nacional Autónoma de México.
 
 ### Markdown
 
