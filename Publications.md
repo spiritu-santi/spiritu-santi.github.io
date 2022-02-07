@@ -1,5 +1,5 @@
 layout: page  
-title: Publications  
+title: "Publications"  
 permalink: /Publications/  
 
 #2022
