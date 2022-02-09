@@ -1,30 +1,7 @@
----
-layout: default
-title: Ramírez-Barahona Lab
----
+layout: default  
+title: Ramírez-Barahona Lab  
 
-@spiritu-santi 
-pages-themes
-/
-minimal
-Public
-Code
-Issues
-6
-Pull requests
-22
-Actions
-Security
-Insights
-minimal/index.md
-@parkr
-parkr Fix linting errors & fix GitHub asset URL
-Latest commit 02c3776 on 28 May 2019
- History
- 2 contributors
-@benbalter@parkr
-123 lines (89 sloc)  2.53 KB
-   
+
 layout
 default
 Text can be bold, italic, or strikethrough.
