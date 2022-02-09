@@ -1,6 +1,7 @@
+---
 layout: default  
 title: Ramírez-Barahona Lab  
-
+---
 
 layout
 default
